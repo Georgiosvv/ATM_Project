@@ -1,4 +1,3 @@
 def get_password():
-    import getpass
-    password = getpass.getpass("Enter your password: ")
+    password = input("Enter your password: ")
     return password
