@@ -1,4 +1,0 @@
-Driver={ODBC Driver 17 for SQL Server};
-Server=TE1-02\SQLEXPRESS01;
-Database=atm;
-Trusted_Connection=yes;
